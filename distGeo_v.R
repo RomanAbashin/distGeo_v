@@ -1,4 +1,7 @@
-## Adapted from Robert J. Hijmans's geosphere implementation of the solution to the inverse geodesic problem.
+## A vectorized version of distGeo (geodesic distance) in R.
+## Fully compatible with base R, tidyverse, and data.table.
+##
+## Adapted from Robert J. Hijmans's implementation of the solution to the inverse geodesic problem.
 ##
 ## Author: Roman Abashin
 ## Date: May 2019
