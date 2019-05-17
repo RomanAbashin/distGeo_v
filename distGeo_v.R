@@ -9,7 +9,7 @@
 ## Contact: m@romanabashin.com
 
 
-vdistGeo <- function(x, y, xx, yy) { 
+distGeo_v <- function(x, y, xx, yy) { 
     if(!"geosphere" %in% installed.packages())  {
         stop("The 'geosphere' package needs to be installed for this function to work.")
     }
