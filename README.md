@@ -1,2 +1,2 @@
 # distGeo_v
-A vectorized C implementation of geosphere's geodesic distance calculation.
+A vectorized implementation of geosphere's geodesic distance calculation.
