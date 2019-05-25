@@ -8,8 +8,10 @@ A vectorized implementation of geosphere's geodesic distance calculation.
 
 ## Benchmarks
 
+### Results from 1 to 100 calculations
 ![Result 1:100](img/result_1.png)
 
+### Results from 1 to 1000 calculations
 ![Result 1:1000](img/result_2.png)
 
 
