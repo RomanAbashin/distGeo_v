@@ -5,6 +5,9 @@ A vectorized implementation of geosphere's geodesic distance calculation.
 
     library(geosphere)
     source("https://raw.githubusercontent.com/RomanAbashin/distGeo_v/master/distGeo_v.R")
+    
+    
+    distGeo_v(x, y, xx, yy)
 
 ## Benchmarks
 
