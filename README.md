@@ -1,5 +1,5 @@
 # distGeo_v
-A tidyverse-friendly implementation of geosphere's vectorized geodesic distance calculation.
+A tidyverse-friendly wrapper for geosphere's geodesic distance calculation.
 
 ## Usage
 
